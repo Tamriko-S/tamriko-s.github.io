@@ -6,7 +6,7 @@ $(document).ready(function() {
 	grid.masonry({
 		itemSelector: '.grid-item',
 		columnWidth: '.grid-sizer',
-		gutter: 5,
+		gutter: 10,
 		percentPosition: true
 	});
 

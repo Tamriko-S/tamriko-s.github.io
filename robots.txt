@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: /stdesign2/sitemap.xml
